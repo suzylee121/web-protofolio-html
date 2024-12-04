@@ -1,0 +1,12 @@
+=
+        iframe {
+            width: 100%;
+            border: none;
+            height: 100%;
+        }
+        .text-gradient {
+                background: linear-gradient(90deg, #1e3a8a, #edf2fa);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+  =
